@@ -12,6 +12,8 @@ sites:
   - name: Spotify
     url: https://spotify.idunwannagotoschool.com
     icon: https://spotify.idunwannagotoschool.com/favicon.ico
+  - name: test
+    url: https://thissitedoesnotexist.koj.co/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
