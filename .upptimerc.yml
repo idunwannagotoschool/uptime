@@ -20,7 +20,7 @@ status-website:
   # baseUrl: /your-repo-name
   favicon: https://raw.githubusercontent.com/idunwannagotoschool/upptime/master/assets/stats.png
   logoUrl: https://raw.githubusercontent.com/idunwannagotoschool/upptime/master/assets/stats.png
-  theme: ocean
+  theme: night
   name: Uptime
   introTitle: "Did you go to school today?"
   introMessage: This is a simple status page which uses **real-time** data from my [GitHub repository](https://github.com/idunwannagotoschool/uptime) to monitor if the websites are **working hard**. 
