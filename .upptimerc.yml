@@ -1,6 +1,6 @@
 # Change these first
 owner: idunwannagotoschool # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+repo: uptime # The name of this repository
 
 sites:
   - name: Home
@@ -22,13 +22,15 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/idunwannagotoschool/upptime/master/assets/stats.png
   theme: ocean
   name: Uptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  introTitle: "Did you go to school today?"
+  introMessage: This is a simple status page which uses **real-time** data from my [GitHub repository](https://github.com/idunwannagotoschool/uptime) to monitor if the websites are **working hard**. 
   navbar:
     - title: Status
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
+    - title: idunwannagotoschool
+      href: https://idunwannagotoschool.com
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
