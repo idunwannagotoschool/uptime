@@ -10,11 +10,11 @@
     "uptimeWeek": "99.79%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.98%",
-    "time": 1184,
-    "timeDay": 1063,
-    "timeWeek": 1317,
-    "timeMonth": 1346,
-    "timeYear": 1184,
+    "time": 1182,
+    "timeDay": 978,
+    "timeWeek": 1276,
+    "timeMonth": 1338,
+    "timeYear": 1182,
     "dailyMinutesDown": {
       "2023-07-25": 21
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "99.54%",
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.96%",
-    "time": 1394,
-    "timeDay": 1152,
-    "timeWeek": 1621,
-    "timeMonth": 1685,
-    "timeYear": 1394,
+    "time": 1390,
+    "timeDay": 1019,
+    "timeWeek": 1555,
+    "timeMonth": 1672,
+    "timeYear": 1390,
     "dailyMinutesDown": {
       "2023-07-25": 47
     }
@@ -50,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.92%",
-    "time": 745,
-    "timeDay": 827,
-    "timeWeek": 680,
+    "time": 746,
+    "timeDay": 836,
+    "timeWeek": 704,
     "timeMonth": 724,
-    "timeYear": 745,
+    "timeYear": 746,
     "dailyMinutesDown": {
       "2023-06-04": 94
     }
@@ -70,11 +70,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 772,
-    "timeDay": 918,
-    "timeWeek": 772,
-    "timeMonth": 772,
-    "timeYear": 772,
+    "time": 786,
+    "timeDay": 825,
+    "timeWeek": 786,
+    "timeMonth": 786,
+    "timeYear": 786,
     "dailyMinutesDown": {}
   },
   {
@@ -83,16 +83,16 @@
     "icon": "https://inf.mojito.eu.org/favicon.ico",
     "slug": "inf-cloud",
     "status": "up",
-    "uptime": "99.04%",
+    "uptime": "99.40%",
     "uptimeDay": "98.51%",
-    "uptimeWeek": "99.04%",
-    "uptimeMonth": "99.04%",
-    "uptimeYear": "99.04%",
-    "time": 1476,
-    "timeDay": 1598,
-    "timeWeek": 1476,
-    "timeMonth": 1476,
-    "timeYear": 1476,
+    "uptimeWeek": "99.40%",
+    "uptimeMonth": "99.40%",
+    "uptimeYear": "99.40%",
+    "time": 1503,
+    "timeDay": 1601,
+    "timeWeek": 1503,
+    "timeMonth": 1503,
+    "timeYear": 1503,
     "dailyMinutesDown": {
       "2023-07-25": 21
     }
