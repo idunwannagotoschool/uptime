@@ -6,15 +6,18 @@ sites:
   - name: Home
     url: https://idunwannagotoschool.com
     icon: https://idunwannagotoschool.com/favicon.ico
+  - name: Homepage
+    url: https://mojito.eu.org
+    icon: https://mojito.eu.org/homepage.ico
   - name: RSS
     url: https://rss.idunwannagotoschool.com
     icon: https://rss.idunwannagotoschool.com/favicon.ico
   - name: Spotify
     url: https://spotify.idunwannagotoschool.com/?gname=Last+day&token=3206cc0f-fd4d-413e-8f91-11b24dcd9886
     icon: https://spotify.idunwannagotoschool.com/favicon.ico
-  - name: WebDAV
-    url: https://mojito.eu.org
-    icon: https://mojito.eu.org/favicon.ico
+  - name: Filestash
+    url: https://file.mojito.eu.org
+    icon: https://file.mojito.eu.org/favicon.ico
   - name: InfCloud
     url: https://inf.mojito.eu.org
     icon: https://inf.mojito.eu.org/favicon.ico
