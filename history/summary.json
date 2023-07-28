@@ -24,19 +24,19 @@
     "url": "https://mojito.eu.org",
     "icon": "https://mojito.eu.org/homepage.ico",
     "slug": "homepage",
-    "status": "down",
-    "uptime": "99.82%",
-    "uptimeDay": "99.82%",
-    "uptimeWeek": "99.82%",
-    "uptimeMonth": "99.82%",
-    "uptimeYear": "99.82%",
-    "time": 832,
-    "timeDay": 832,
-    "timeWeek": 832,
-    "timeMonth": 832,
-    "timeYear": 832,
+    "status": "up",
+    "uptime": "80.80%",
+    "uptimeDay": "80.80%",
+    "uptimeWeek": "80.80%",
+    "uptimeMonth": "80.80%",
+    "uptimeYear": "80.80%",
+    "time": 874,
+    "timeDay": 874,
+    "timeWeek": 874,
+    "timeMonth": 874,
+    "timeYear": 874,
     "dailyMinutesDown": {
-      "2023-07-28": 0
+      "2023-07-28": 17
     }
   },
   {
