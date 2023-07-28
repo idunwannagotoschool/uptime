@@ -64,9 +64,9 @@
     "url": "https://mojito.eu.org",
     "icon": "https://mojito.eu.org/favicon.ico",
     "slug": "web-dav",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -75,7 +75,9 @@
     "timeWeek": 785,
     "timeMonth": 785,
     "timeYear": 785,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-07-28": 0
+    }
   },
   {
     "name": "InfCloud",
@@ -83,11 +85,11 @@
     "icon": "https://inf.mojito.eu.org/favicon.ico",
     "slug": "inf-cloud",
     "status": "up",
-    "uptime": "99.67%",
+    "uptime": "99.69%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.67%",
-    "uptimeMonth": "99.67%",
-    "uptimeYear": "99.67%",
+    "uptimeWeek": "99.69%",
+    "uptimeMonth": "99.69%",
+    "uptimeYear": "99.69%",
     "time": 1508,
     "timeDay": 1632,
     "timeWeek": 1508,
