@@ -24,18 +24,20 @@
     "url": "https://mojito.eu.org",
     "icon": "https://mojito.eu.org/homepage.ico",
     "slug": "homepage",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1009,
-    "timeDay": 1009,
-    "timeWeek": 1009,
-    "timeMonth": 1009,
-    "timeYear": 1009,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "99.82%",
+    "uptimeDay": "99.82%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.82%",
+    "uptimeYear": "99.82%",
+    "time": 832,
+    "timeDay": 832,
+    "timeWeek": 832,
+    "timeMonth": 832,
+    "timeYear": 832,
+    "dailyMinutesDown": {
+      "2023-07-28": 0
+    }
   },
   {
     "name": "RSS",
