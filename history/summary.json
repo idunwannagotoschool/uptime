@@ -25,11 +25,11 @@
     "icon": "https://mojito.eu.org/homepage.ico",
     "slug": "homepage",
     "status": "up",
-    "uptime": "97.68%",
-    "uptimeDay": "97.68%",
-    "uptimeWeek": "97.68%",
-    "uptimeMonth": "97.68%",
-    "uptimeYear": "97.68%",
+    "uptime": "97.94%",
+    "uptimeDay": "97.94%",
+    "uptimeWeek": "97.94%",
+    "uptimeMonth": "97.94%",
+    "uptimeYear": "97.94%",
     "time": 906,
     "timeDay": 906,
     "timeWeek": 906,
@@ -116,5 +116,41 @@
     "dailyMinutesDown": {
       "2023-07-25": 21
     }
+  },
+  {
+    "name": "Secret Site 1",
+    "url": "$SITE_1",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
+    "slug": "secret-site-1",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {}
+  },
+  {
+    "name": "Secret Site 2",
+    "url": "$SITE_2",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
+    "slug": "secret-site-2",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {}
   }
 ]
