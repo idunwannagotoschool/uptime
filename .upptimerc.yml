@@ -21,6 +21,10 @@ sites:
   - name: InfCloud
     url: https://inf.mojito.eu.org
     icon: https://inf.mojito.eu.org/favicon.ico
+  - name: Secret Site 1
+    url: $SITE_1
+  - name: Secret Site 2
+    url: $SITE_2
     
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
