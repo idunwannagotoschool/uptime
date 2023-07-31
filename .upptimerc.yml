@@ -21,6 +21,9 @@ sites:
   - name: InfCloud
     url: https://inf.mojito.eu.org
     icon: https://inf.mojito.eu.org/favicon.ico
+  - name: AUYEUNG's
+    url: https://auyeung.eu.org
+    icon: https://auyeung.eu.org/favicon.ico
   - name: Secret Site 1
     url: $SITE_1
   - name: Secret Site 2
