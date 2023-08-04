@@ -26,18 +26,18 @@
     "icon": "https://mojito.eu.org/homepage.ico",
     "slug": "homepage",
     "status": "down",
-    "uptime": "98.45%",
-    "uptimeDay": "92.51%",
-    "uptimeWeek": "98.45%",
-    "uptimeMonth": "98.45%",
-    "uptimeYear": "98.45%",
+    "uptime": "98.19%",
+    "uptimeDay": "90.72%",
+    "uptimeWeek": "98.19%",
+    "uptimeMonth": "98.19%",
+    "uptimeYear": "98.19%",
     "time": 1055,
     "timeDay": 1209,
     "timeWeek": 1055,
     "timeMonth": 1055,
     "timeYear": 1055,
     "dailyMinutesDown": {
-      "2023-08-04": 108,
+      "2023-08-04": 134,
       "2023-07-30": 25,
       "2023-07-28": 17
     }
@@ -47,19 +47,19 @@
     "url": "https://rss.idunwannagotoschool.com",
     "icon": "https://rss.idunwannagotoschool.com/favicon.ico",
     "slug": "rss",
-    "status": "down",
-    "uptime": "99.88%",
-    "uptimeDay": "92.51%",
-    "uptimeWeek": "98.93%",
-    "uptimeMonth": "99.65%",
-    "uptimeYear": "99.88%",
-    "time": 1316,
-    "timeDay": 939,
-    "timeWeek": 833,
-    "timeMonth": 1307,
-    "timeYear": 1316,
+    "status": "up",
+    "uptime": "99.86%",
+    "uptimeDay": "90.73%",
+    "uptimeWeek": "98.68%",
+    "uptimeMonth": "99.59%",
+    "uptimeYear": "99.86%",
+    "time": 1313,
+    "timeDay": 953,
+    "timeWeek": 845,
+    "timeMonth": 1299,
+    "timeYear": 1313,
     "dailyMinutesDown": {
-      "2023-08-04": 108,
+      "2023-08-04": 133,
       "2023-07-25": 47
     }
   },
@@ -107,18 +107,18 @@
     "icon": "https://inf.mojito.eu.org/favicon.ico",
     "slug": "inf-cloud",
     "status": "down",
-    "uptime": "99.23%",
-    "uptimeDay": "92.52%",
-    "uptimeWeek": "98.93%",
-    "uptimeMonth": "99.23%",
-    "uptimeYear": "99.23%",
+    "uptime": "99.08%",
+    "uptimeDay": "90.72%",
+    "uptimeWeek": "98.67%",
+    "uptimeMonth": "99.08%",
+    "uptimeYear": "99.08%",
     "time": 1377,
     "timeDay": 1463,
     "timeWeek": 1294,
     "timeMonth": 1377,
     "timeYear": 1377,
     "dailyMinutesDown": {
-      "2023-08-04": 108,
+      "2023-08-04": 134,
       "2023-07-25": 21
     }
   },
@@ -128,18 +128,18 @@
     "icon": "https://auyeung.eu.org/favicon.ico",
     "slug": "auyeung-s",
     "status": "down",
-    "uptime": "98.22%",
-    "uptimeDay": "92.52%",
-    "uptimeWeek": "98.22%",
-    "uptimeMonth": "98.22%",
-    "uptimeYear": "98.22%",
+    "uptime": "97.81%",
+    "uptimeDay": "90.73%",
+    "uptimeWeek": "97.81%",
+    "uptimeMonth": "97.81%",
+    "uptimeYear": "97.81%",
     "time": 738,
     "timeDay": 812,
     "timeWeek": 738,
     "timeMonth": 738,
     "timeYear": 738,
     "dailyMinutesDown": {
-      "2023-08-04": 108
+      "2023-08-04": 134
     }
   },
   {
@@ -148,18 +148,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "secret-site-1",
     "status": "down",
-    "uptime": "98.79%",
-    "uptimeDay": "92.52%",
-    "uptimeWeek": "98.79%",
-    "uptimeMonth": "98.79%",
-    "uptimeYear": "98.79%",
+    "uptime": "98.50%",
+    "uptimeDay": "90.73%",
+    "uptimeWeek": "98.50%",
+    "uptimeMonth": "98.50%",
+    "uptimeYear": "98.50%",
     "time": 1836,
     "timeDay": 2342,
     "timeWeek": 1836,
     "timeMonth": 1836,
     "timeYear": 1836,
     "dailyMinutesDown": {
-      "2023-08-04": 108
+      "2023-08-04": 134
     }
   },
   {
@@ -168,18 +168,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "secret-site-2",
     "status": "down",
-    "uptime": "98.79%",
-    "uptimeDay": "92.53%",
-    "uptimeWeek": "98.79%",
-    "uptimeMonth": "98.79%",
-    "uptimeYear": "98.79%",
+    "uptime": "98.50%",
+    "uptimeDay": "90.73%",
+    "uptimeWeek": "98.50%",
+    "uptimeMonth": "98.50%",
+    "uptimeYear": "98.50%",
     "time": 641,
     "timeDay": 709,
     "timeWeek": 641,
     "timeMonth": 641,
     "timeYear": 641,
     "dailyMinutesDown": {
-      "2023-08-04": 108
+      "2023-08-04": 133
     }
   }
 ]
