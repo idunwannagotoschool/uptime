@@ -4,9 +4,9 @@
     "url": "https://idunwannagotoschool.com",
     "icon": "https://idunwannagotoschool.com/favicon.ico",
     "slug": "home",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.98%",
@@ -16,6 +16,7 @@
     "timeMonth": 1130,
     "timeYear": 1137,
     "dailyMinutesDown": {
+      "2023-08-04": 0,
       "2023-07-25": 21
     }
   },
@@ -24,9 +25,9 @@
     "url": "https://mojito.eu.org",
     "icon": "https://mojito.eu.org/homepage.ico",
     "slug": "homepage",
-    "status": "up",
+    "status": "down",
     "uptime": "99.55%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "99.55%",
     "uptimeMonth": "99.55%",
     "uptimeYear": "99.55%",
@@ -36,6 +37,7 @@
     "timeMonth": 1055,
     "timeYear": 1055,
     "dailyMinutesDown": {
+      "2023-08-04": 0,
       "2023-07-30": 25,
       "2023-07-28": 17
     }
@@ -45,19 +47,19 @@
     "url": "https://rss.idunwannagotoschool.com",
     "icon": "https://rss.idunwannagotoschool.com/favicon.ico",
     "slug": "rss",
-    "status": "up",
-    "uptime": "99.95%",
-    "uptimeDay": "99.19%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.87%",
-    "uptimeYear": "99.95%",
+    "status": "down",
+    "uptime": "99.96%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.89%",
+    "uptimeYear": "99.96%",
     "time": 1316,
     "timeDay": 939,
     "timeWeek": 833,
     "timeMonth": 1307,
     "timeYear": 1316,
     "dailyMinutesDown": {
-      "2023-08-04": 12,
+      "2023-08-04": 0,
       "2023-07-25": 47
     }
   },
@@ -104,9 +106,9 @@
     "url": "https://inf.mojito.eu.org",
     "icon": "https://inf.mojito.eu.org/favicon.ico",
     "slug": "inf-cloud",
-    "status": "up",
+    "status": "down",
     "uptime": "99.87%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.87%",
     "uptimeYear": "99.87%",
@@ -116,6 +118,7 @@
     "timeMonth": 1377,
     "timeYear": 1377,
     "dailyMinutesDown": {
+      "2023-08-04": 0,
       "2023-07-25": 21
     }
   },
@@ -124,9 +127,9 @@
     "url": "https://auyeung.eu.org",
     "icon": "https://auyeung.eu.org/favicon.ico",
     "slug": "auyeung-s",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -135,16 +138,18 @@
     "timeWeek": 738,
     "timeMonth": 738,
     "timeYear": 738,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-08-04": 0
+    }
   },
   {
     "name": "Secret Site 1",
     "url": "$SITE_1",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "secret-site-1",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -153,26 +158,28 @@
     "timeWeek": 1836,
     "timeMonth": 1836,
     "timeYear": 1836,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-08-04": 0
+    }
   },
   {
     "name": "Secret Site 2",
     "url": "$SITE_2",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "secret-site-2",
-    "status": "up",
-    "uptime": "99.88%",
-    "uptimeDay": "99.30%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.88%",
-    "uptimeYear": "99.88%",
+    "status": "down",
+    "uptime": "100.00%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 641,
     "timeDay": 709,
     "timeWeek": 641,
     "timeMonth": 641,
     "timeYear": 641,
     "dailyMinutesDown": {
-      "2023-08-04": 10
+      "2023-08-04": 0
     }
   }
 ]
