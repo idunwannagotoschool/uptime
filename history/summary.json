@@ -25,11 +25,11 @@
     "icon": "https://mojito.eu.org/homepage.ico",
     "slug": "homepage",
     "status": "up",
-    "uptime": "99.54%",
+    "uptime": "99.55%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.54%",
-    "uptimeMonth": "99.54%",
-    "uptimeYear": "99.54%",
+    "uptimeWeek": "99.55%",
+    "uptimeMonth": "99.55%",
+    "uptimeYear": "99.55%",
     "time": 1055,
     "timeDay": 1209,
     "timeWeek": 1055,
@@ -45,10 +45,10 @@
     "url": "https://rss.idunwannagotoschool.com",
     "icon": "https://rss.idunwannagotoschool.com/favicon.ico",
     "slug": "rss",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.96%",
     "time": 1320,
@@ -57,6 +57,7 @@
     "timeMonth": 1317,
     "timeYear": 1320,
     "dailyMinutesDown": {
+      "2023-08-04": 2,
       "2023-07-25": 47
     }
   },
@@ -159,9 +160,9 @@
     "url": "$SITE_2",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "secret-site-2",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -170,6 +171,8 @@
     "timeWeek": 636,
     "timeMonth": 636,
     "timeYear": 636,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-08-04": 0
+    }
   }
 ]
