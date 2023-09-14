@@ -13,8 +13,8 @@ sites:
     url: https://rss.idunwannagotoschool.com
     icon: https://rss.idunwannagotoschool.com/favicon.ico
   - name: Spotify
-    url: https://spotify.idunwannagotoschool.com/?gname=Last+day&token=3206cc0f-fd4d-413e-8f91-11b24dcd9886
-    icon: https://spotify.idunwannagotoschool.com/favicon.ico
+    url: https://music.idunwannagotoschool.com/?gname=Last+day&token=3206cc0f-fd4d-413e-8f91-11b24dcd9886
+    icon: https://music.idunwannagotoschool.com/favicon.ico
   - name: Filestash
     url: https://file.mojito.eu.org
     icon: https://file.mojito.eu.org/favicon.ico
