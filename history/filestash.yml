@@ -1,7 +1,7 @@
 url: https://file.mojito.eu.org
-status: up
-code: 200
-responseTime: 637
-lastUpdated: 2024-05-31T17:30:58.867Z
+status: down
+code: 502
+responseTime: 762
+lastUpdated: 2024-05-31T17:43:59.624Z
 startTime: 2023-07-28T12:54:53.000Z
 generator: Upptime <https://github.com/upptime/upptime>
